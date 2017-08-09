@@ -1,0 +1,17 @@
+Update working time of every company to default value!
+
+Company{
+
+	workingTime: [...wTime...]
+
+}
+
+
+wTime: {
+		'day' : dayTitle, // Monday, Tuesday...
+		'workStart' : '06:00', // HH:MM
+		'workEnd' : '23:00', // HH:MM
+		'breakStart' : '00:00', // HH:MM
+		'breakEnd' : : '00:00', // HH:MM
+		'open' : true // Bool
+}	

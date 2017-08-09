@@ -1,0 +1,28 @@
+{
+  "name": "da_project_1_back_end",
+  "version": "1.0.0",
+  "description": "DA Project 1 - Back-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Zitt0@bitbucket.org/Zitt0/da-project-1-back-end.git"
+  },
+  "author": "Different Approach",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Zitt0/da-project-1-back-end#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-alpha.1",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "jsonwebtoken": "^7.1.9",
+    "mongoose": "^4.5.10",
+    "password-hash": "^1.2.2",
+    "shortid": "^2.2.6"
+  }
+}
